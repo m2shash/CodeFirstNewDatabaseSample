@@ -1,0 +1,8 @@
+1. The enable-migrations command creates a Migrations folder in the project, and it puts in that folder a Configuration.cs
+    file that you can edit to configure Migrations.
+
+2. add-migration InitialCreate command to be executed to create the Initial Scripts
+
+3. update-database -Verbose
+
+4. 

@@ -1,0 +1,10 @@
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\Models.dll.config
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\Models.dll
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\Models.pdb
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\EntityFramework.dll
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\EntityFramework.xml
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\obj\Debug\Models.dll
+C:\MyProjects\CodeFirstNewDatabaseSample\Models\obj\Debug\Models.pdb
